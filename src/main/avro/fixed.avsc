@@ -1,0 +1,7 @@
+{
+  "type" : "fixed",
+  "name" : "Fixed",
+  "namespace" : "org.apache.pulsar.examples",
+  "size": 5,
+  "doc:" : "A fixed field for demonstrating a problem"
+}

@@ -11,6 +11,10 @@
     "type" : "string",
     "doc" : "The content of the user's Twitter message"
   }, {
+    "name" : "fixed",
+    "type" : "Fixed",
+    "doc" : "Some arbitrary data to demonstrate a problem"
+  }, {
     "name" : "timestamp",
     "type" : "long",
     "doc" : "Unix epoch time in seconds"
